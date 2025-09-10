@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SimonAU4011
-- 👀 I’m interested in so many types of technology that it is hard to list!
-- 🌱 I’m currently learning python, mindfullness and the finer arts of cooking
-- 💞️ I’m looking to collaborate on Git, GitHub, Auslan (Australian Sign Language) and Drupal stuff!
-- 📫 How to reach me is a great question! Email is good to simon, to my email at my domain 4011.info
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have read Lord of the Rings 25 times
+👋 Hi, I’m @SimonAU4011
+
+With a minfulness to security I am limiting my public sharing, but want you to know that you are important and I am so glad you are here. 
 
 <!---
 SimonAU4011/SimonAU4011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
